@@ -1,0 +1,264 @@
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\ProjetoEVO\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\Projeto WebAPI\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\EVO - reset\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\EVO - Backup\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\EVO - Current\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\appsettings.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\WebapiEVO.exe
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\WebapiEVO.deps.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\WebapiEVO.runtimeconfig.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.AssemblyReference.cache
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfoInputs.cache
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.AssemblyInfo.cs
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CoreCompileInputs.cache
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.WebapiEVO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.build.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebapiEVO.props
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\scopedcss\bundle\WebapiEVO.styles.css
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.csproj.CopyComplete
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\refint\WebapiEVO.dll
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.pdb
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\WebapiEVO.genruntimeconfig.cache
+C:\Users\grica\Desktop\Projeto EVO\Projeto-Evo\Projeto-Evo\WebapiEVO\obj\Debug\net6.0\ref\WebapiEVO.dll
